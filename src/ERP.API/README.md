@@ -14,6 +14,6 @@ Com funcionalidades para:
 - [.NET 8](https://dotnet.microsoft.com/)
 - [C#](https://learn.microsoft.com/dotnet/csharp/)
 - [Entity Framework Core](https://learn.microsoft.com/ef/)
-- [SQL Server/MySQL] 
+- [MySQL] 
 - [AutoMapper](https://automapper.org/)
 
