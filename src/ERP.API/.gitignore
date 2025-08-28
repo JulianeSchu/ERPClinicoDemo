@@ -1,0 +1,62 @@
+# Compiled source #
+###################
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# User-specific files #
+#######################
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results #
+#################
+*.dll
+*.exe
+*.app
+*.appx
+*.apk
+*.ap_ 
+*.aab
+*.msi
+*.pdb
+*.cache
+*.log
+*.manifest
+*.vspscc
+*.vssscc
+
+# Visual Studio files #
+#######################
+.vs/
+.vscode/
+
+# NuGet #
+#########
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.nuget/
+packages/
+
+# Configurações locais #
+########################
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Mac/Linux #
+#############
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+Thumbs.db
+ehthumbs.db
+Icon?
